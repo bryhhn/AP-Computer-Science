@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.history
+.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.7.0.20160603-1933.xml
+*.xml
+.metadata/
